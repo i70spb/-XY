@@ -1,4 +1,4 @@
-ID: ANCHOR-PROTOCOL. Файл: IMPLEMENTATION_GUIDE.md
+Есди что прошу простить и понять ) код писАл deepseek
 
 ```markdown
 # IMPLEMENTATION GUIDE: Практическое внедрение протокола «Якорь-Режим»
